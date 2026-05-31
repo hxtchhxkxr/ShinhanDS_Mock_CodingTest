@@ -1,6 +1,6 @@
 ## SinhanDS Mock CodingTest
 
-신한 DS 모의 코딩테스트 문제 풀이를 정리한 저장소입니다.
+신한 DS 부트캠프 모의 코딩테스트 문제 풀이를 정리한 저장소입니다.
 
 ## Problems
 
