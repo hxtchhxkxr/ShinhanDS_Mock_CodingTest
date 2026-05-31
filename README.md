@@ -1,4 +1,4 @@
-# SinhanDS Mock CodingTest
+## SinhanDS Mock CodingTest
 
 신한 DS 모의 코딩테스트 문제 풀이를 정리한 저장소입니다.
 
@@ -17,14 +17,3 @@
 | 3 |  | [바로가기](./problem03) | ✅ |
 | 4 |  | [바로가기](./problem03) | ✅ |
 
-## Directory Structure
-
-```text
-SinhanDS_Mock_CodingTest/
-├── README.md
-├── problem01/
-│   └── Main.java
-├── problem02/
-│   └── Main.java
-└── problem03/
-    └── Main.java
