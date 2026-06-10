@@ -16,7 +16,7 @@ insert into CARTS values (734, 11, to_date('2001-04-10 00:00:00','yyyy-mm-dd hh2
 insert into CARTS values (195, 11, to_date('2000-04-12 00:00:00','yyyy-mm-dd hh24:mi:ss'), 11);
 commit;
 
-SELECT USER_ID, COUNT(USER_ID)AS PAYED_COUNT
+SELECT USER_ID, COUNT(USER_ID) AS PAYED_COUNT
 FROM CARTS
 WHERE PRODUCT_COUNT >= 10
 GROUP BY USER_ID
