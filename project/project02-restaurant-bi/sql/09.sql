@@ -1,0 +1,13 @@
+SELECT
+    SUBSTR(RESERV_DATE, 1, 6) AS 년월,
+    COUNT(*) AS 총예약건,
+    SUM(CASE WHEN CANCEL = 'N' THEN 1 ELSE 0 END) AS 예약완료건,
+    SUM(CASE WHEN CANCEL = 'Y' THEN 1 ELSE 0 END) AS 예약취소건,
+    ROUND(
+        SUM(CASE WHEN CANCEL = 'Y' THEN 1 ELSE 0 END)
+        * 100
+        / COUNT(*)
+    , 1) || '%' AS 예약취소율
+FROM RESERVATION
+GROUP BY SUBSTR(RESERV_DATE, 1, 6)
+ORDER BY 년월;
