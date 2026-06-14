@@ -14,3 +14,10 @@
 | 5 | 숫자 검색 | <a href="https://codro.notion.site/1-684f47344a9f4bf4aa8a89b98e8ce878"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a> | <a href="./problems/official/problem05-number-search/NumberSearch.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 진행중 | 서로 다른 숫자도 같은 기호로 치환됨 |
 | 6 | 유저별 티어 정하기 | <a href="https://codro.notion.site/SQL1-e9de57e866304af48b3ab3403fce2b6e"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a> | <a href="https://github.com/hxtchhxkxr/ShinhanDS_Mock_CodingTest/blob/main/problems/official/problem06-user-tier-assignment/user-tier-assignment.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 |  |
 | 7 | 장바구니의 수 | <a href="https://codro.notion.site/SQL1-b247dcae1e2d4d60bccb464e8affd9d9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a> | <a href="https://github.com/hxtchhxkxr/ShinhanDS_Mock_CodingTest/blob/main/problems/official/problem07-number-of-carts/NumberOfCarts.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 |  |
+
+## Project
+
+| 번호 | 문제명 | 링크 | 코드 | 진행상황 | 비고 |
+|---|---|---|---|---|---|
+| 1 | 오목 | <a href="https://codro.notion.site/40301fbcdc264df284cee824c9adc8b5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a> |  | 완료 | 팀플 |
+| 2 | 패밀리 레스토랑 데이터 분석 |  |  |  |  |
