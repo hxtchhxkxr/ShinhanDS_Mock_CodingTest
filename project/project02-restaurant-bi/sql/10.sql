@@ -1,0 +1,29 @@
+SELECT
+    년월,
+    'SPECIAL_SET' AS 상품명,
+
+    SUM(CASE WHEN 요일번호='1' THEN SALES ELSE 0 END) AS 일요일,
+    SUM(CASE WHEN 요일번호='2' THEN SALES ELSE 0 END) AS 월요일,
+    SUM(CASE WHEN 요일번호='3' THEN SALES ELSE 0 END) AS 화요일,
+    SUM(CASE WHEN 요일번호='4' THEN SALES ELSE 0 END) AS 수요일,
+    SUM(CASE WHEN 요일번호='5' THEN SALES ELSE 0 END) AS 목요일,
+    SUM(CASE WHEN 요일번호='6' THEN SALES ELSE 0 END) AS 금요일,
+    SUM(CASE WHEN 요일번호='7' THEN SALES ELSE 0 END) AS 토요일
+
+FROM (
+    SELECT
+        SUBSTR(R.RESERV_DATE,1,6) AS 년월,
+        TO_CHAR(
+            TO_DATE(R.RESERV_DATE,'YYYYMMDD'),
+            'D'
+        ) AS 요일번호,
+        O.SALES
+    FROM RESERVATION R
+    JOIN ORDER_INFO O
+        ON R.RESERV_NO = O.RESERV_NO
+    JOIN ITEM I
+        ON O.ITEM_ID = I.ITEM_ID
+    WHERE I.PRODUCT_DESC = '온라인_전용상품'
+)
+GROUP BY 년월
+ORDER BY 년월;
