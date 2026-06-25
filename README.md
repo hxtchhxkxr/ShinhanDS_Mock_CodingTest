@@ -14,6 +14,7 @@
 | 6 | 유저별 티어 정하기 | <a href="./problem/problem06-user-tier-assignment/user-tier-assignment.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 | |
 | 7 | 장바구니의 수 | <a href="./problem/problem07-number-of-carts/NumberOfCarts.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 | |
 | 8 | 계좌번호 분석 | <a href="https://github.com/hxtchhxkxr/ShinhanDS_Mock_CodingTest/blob/main/problem/problem08-account-bi/AccountBI.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
+| 9 | 주식 구매 |  |  |  |
 
 ## Project
 
