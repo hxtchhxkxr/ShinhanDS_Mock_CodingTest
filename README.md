@@ -17,6 +17,7 @@
 | 9 | 주식 구매 |  |  |  |
 | 10 | 몫=나머지 | <a href="./problem/problem10-quotient-remainder/QuotientRemainder.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 | 11 | 식 조작 | <a href="./problem/problem11-expression-manipulation/ExpressionManipulation.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
+| 12 | 여러 디스크에 저장된 데이터 | <a href="./problem/problem12-disk-data-cleanup/DiskDataCleanup.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 
 ## Project
 
