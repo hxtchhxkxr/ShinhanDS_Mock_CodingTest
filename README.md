@@ -16,6 +16,7 @@
 | 8 | 계좌번호 분석 | <a href="https://github.com/hxtchhxkxr/ShinhanDS_Mock_CodingTest/blob/main/problem/problem08-account-bi/AccountBI.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 | 9 | 주식 구매 |  |  |  |
 | 10 | 몫=나머지 | <a href="./problem/problem10-quotient-remainder/QuotientRemainder.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
+| 11 | 식 조작 | <a href="./problem/problem11-expression-manipulation/ExpressionManipulation.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 
 ## Project
 
