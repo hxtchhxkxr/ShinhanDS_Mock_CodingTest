@@ -14,7 +14,7 @@
 | 6 | 유저별 티어 정하기 | <a href="./problem/problem06-user-tier-assignment/user-tier-assignment.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 | |
 | 7 | 장바구니의 수 | <a href="./problem/problem07-number-of-carts/NumberOfCarts.sql"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"></a> | 완료 | |
 | 8 | 계좌번호 분석 | <a href="https://github.com/hxtchhxkxr/ShinhanDS_Mock_CodingTest/blob/main/problem/problem08-account-bi/AccountBI.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
-| 9 | 주식 구매 |  |  |  |
+| 9 | 주식 구매 | <a href="./problem/problem09-stock-purchase/StockPurchase.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 | 10 | 몫=나머지 | <a href="./problem/problem10-quotient-remainder/QuotientRemainder.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 | 11 | 식 조작 | <a href="./problem/problem11-expression-manipulation/ExpressionManipulation.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
 | 12 | 여러 디스크에 저장된 데이터 | <a href="./problem/problem12-disk-data-cleanup/DiskDataCleanup.java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"></a> | 완료 | |
